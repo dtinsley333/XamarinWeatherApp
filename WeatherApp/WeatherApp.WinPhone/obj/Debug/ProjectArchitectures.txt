@@ -1,0 +1,2 @@
+C:\CodeProjects\WeatherApp\WeatherApp\WeatherApp.WinPhone\WeatherApp.WinPhone.csproj;neutral
+C:\CodeProjects\WeatherApp\WeatherApp\WeatherApp\WeatherApp.csproj;neutral
